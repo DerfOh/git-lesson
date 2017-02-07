@@ -89,4 +89,6 @@
 
     * `git merge feature`
 
-* Git will automatically attempt to merge the files if there are any conflicts it will prompt the user to fix them 
+* Git will automatically attempt to merge the files if there are any conflicts it will prompt the user to fix them
+
+test
