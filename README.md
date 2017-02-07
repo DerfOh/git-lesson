@@ -53,11 +53,10 @@
 ---
 
 ## Push your commit to the repository
-
-* Once you have all the changes committed if you're working with a remote origin then you need to push or changes to that origin
-    * `git push`
-        
-    * If you're working locally only then there is no need to push changes to the remote
+* `git push`
+    * Once you have all the changes committed if you're working with a remote origin then you need to push or changes to that origin
+    
+    * If you're working locally only then there is no need to push
 
 ---
 
